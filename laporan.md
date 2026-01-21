@@ -233,7 +233,7 @@ Untuk bagian refleksi, Anda bisa menuliskan: "Bagian paling menantang adalah mel
 
 | Nama                 |    NIM    |    Peran tugas |
 | :------------------- | :-------: | -------------: |
-| Erlin Dwi Cahyanti   | 250202911 | Project Leader |
+| Erlin Dwi Cahyanti   | 250202911 | Project Leader : "Mengoordinasikan alur kerja Git kelompok dan melakukan kontrol penggabungan (merge)".|
 | Ani Ngismatul Hawa   | 250202914 |    Developer 1 |
 | Dyah Retno wulandari | 250202934 |    Developer 2 |
 | Lutfi Khoerunnisa    | 250202947 |  Dokumentasi 1 |
